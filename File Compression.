@@ -1,0 +1,2 @@
+File compression - A zip file is a way of grouping, or archiving, multiple files so they act like one file.
+When the file was compressed it went from 168kb down to just 86kb, If the file was a JPEG it not have gotten much smaller due to the file already is compressed.
