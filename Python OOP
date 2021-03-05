@@ -1,0 +1,3 @@
+What are the attributes and methods of the shark class? The methods of the shark class are swimming and being awesome.
+What is the purpose of a constructor? The constructor method is used to initialize data. It is run as soon as an object of a class is instantiated. You should use this method to carry out any initializing you would like to do with your class objects.
+Classes are like a blueprint or a prototype that you can define to use to create objects. An object is an instance of a class. Instantiate is the realized version of the class, where the class is manifested in the program.
